@@ -45,7 +45,7 @@ n=int(input())
 ```
 ## Output:
 
-![](./circulate.png)
+![](./cir2.png)
 
 ## Result:
 
